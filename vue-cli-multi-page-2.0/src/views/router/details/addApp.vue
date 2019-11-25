@@ -15,7 +15,7 @@
   	
   	<div style="margin-top: 15px;">
   		<a href="../home/list.html">
-  			 <x-button>返回demo列表页</x-button>
+  			 <x-button>返回demo列w表页</x-button>
   		</a>
   	</div>
   	
